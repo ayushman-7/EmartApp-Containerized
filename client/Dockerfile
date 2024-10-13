@@ -12,3 +12,4 @@ COPY nginx.conf /etc/nginx/conf.d/default.conf
 
 # Expose port 4200
 EXPOSE 4200
+#test passed
